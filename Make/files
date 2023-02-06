@@ -1,3 +1,3 @@
-rhoEnergyFoamNewVersion.C
+rhoEnergyFoam.C
 
-EXE = $(FOAM_SITE_APPBIN)/rhoEnergyFoamNewVersion
+EXE = $(FOAM_SITE_APPBIN)/rhoEnergyFoamMod3
